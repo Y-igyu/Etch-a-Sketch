@@ -3,12 +3,6 @@
     padding: 0;
 }
 
-#container {
-    border: solid;
-    width: 960px;
-    height: 960px;
-    display: flex;
-}
 
 .column {
     display: flex;
