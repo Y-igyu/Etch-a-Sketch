@@ -5,8 +5,8 @@
 
 #container {
     border: solid;
-    width: 800px;
-    height: 800px;
+    width: 960px;
+    height: 960px;
     display: flex;
 }
 
